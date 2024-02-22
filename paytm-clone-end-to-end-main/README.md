@@ -68,9 +68,6 @@ This project is a clone of the Paytm application developed using the MERN (Mongo
 
 
 
-## Authors
-
-- [@SatyamChauhan](https://github.com/SatyamRana50)
 
 
 ## 🛠 Skills
